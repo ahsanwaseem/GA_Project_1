@@ -8,7 +8,9 @@ Created a Javascript Game with the following rules
 * Level 2: Bombs are shown for 0.5 sec and then they disappear
 * Level 3: Bombs are shown for 0.2 sec and then they disappear
 * Bomb = -10 points
-* Time Limit = 30sec
+* Level 1: Time Limit = 60sec
+* Level 2: Time Limit = 30sec
+* Level 3: Time Limit = 15sec
 * When the Level is loaded, bombs are placed randomly.
 * Successful Navigation:
 * Bonus Points = 50
