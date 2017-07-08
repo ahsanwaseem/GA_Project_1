@@ -1,6 +1,6 @@
 # GA_Project_1
 
-#Rules
+# Rules
 
 Created a Javascript Game with the following rules
 
@@ -25,7 +25,7 @@ Created a Javascript Game with the following rules
 ![level2](https://user-images.githubusercontent.com/25141069/27951309-5011bf7a-62b9-11e7-878b-67a0cb246aab.png)
 ![level3](https://user-images.githubusercontent.com/25141069/27951510-0f5a7584-62ba-11e7-96e7-d0cd5ae508e2.png)
 
-#Challenges
+# Challenges
 
 Since this was my first ever game creating experience, I found it hard
 to get going. I had code block (writer's block) for two days, I had to
@@ -39,7 +39,7 @@ project. My main goal was to focus on game logic, I now have newfound respect
 for game developers. Days were divided,first three days were focusing on
 game logic; the next two days were testing and styling.
 
-#Improvements
+# Improvements
 
 I'd like to create user objects that store user score and progression,this
 I feel would personalize the game. I'd like to add animation so when the user
