@@ -22,7 +22,6 @@ Created a Javascript Game with the following rules
 
 ![gamefront](https://user-images.githubusercontent.com/25141069/27951068-79a5c116-62b8-11e7-8fa9-7ff71e7be6b4.png)
 ![startgame](https://user-images.githubusercontent.com/25141069/27954170-a6187ba2-62c3-11e7-954a-c75e028d2ba4.png)
-![level1](https://user-images.githubusercontent.com/25141069/27951388-99ea805a-62b9-11e7-826d-05a79d2849e9.png)
 ![level1 1](https://user-images.githubusercontent.com/25141069/27951406-abed7596-62b9-11e7-9705-8fcc1edfeb9d.png)
 ![level2](https://user-images.githubusercontent.com/25141069/27951309-5011bf7a-62b9-11e7-878b-67a0cb246aab.png)
 ![level3](https://user-images.githubusercontent.com/25141069/27951510-0f5a7584-62ba-11e7-96e7-d0cd5ae508e2.png)
