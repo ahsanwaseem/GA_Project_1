@@ -37,7 +37,8 @@ had to create a 'ul' and 'li' items inside it, for which I used 'for loop'.
 Time management was also a big challenge, I had 5 days to complete this
 project. My main goal was to focus on game logic, I now have newfound respect
 for game developers. Days were divided,first three days were focusing on
-game logic; the next two days were testing and styling.
+game logic; the next two days were testing and styling. Overall the whole
+experience was immensely rewarding.
 
 # Improvements
 
