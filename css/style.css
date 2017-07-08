@@ -1,0 +1,209 @@
+body{
+
+background-color: #000;
+
+}
+
+h2#rules{
+
+ font-size:40px;
+ color:#fff;
+ margin-top:50px;
+
+}
+
+p
+{
+ color:#fff;
+ font-size:20px;
+ line-height:27px;
+ padding:20px;
+}
+
+span.score{
+
+font-size:30px;
+color:#fff;
+margin-top:10px;
+}
+
+span.score:hover{
+
+color:#000;
+box-shadow:inset 0 0 30px #000000;
+
+}
+
+ul {
+  margin: 0 auto;
+  padding: 10px;
+  list-style: none;
+  max-width: 600px;
+}
+
+li {
+  width: 100px;
+  height: 100px;
+  background:#ddd;
+  float:left;
+  border:solid 1px #000;
+  box-shadow:inset 1px 1px 20px #fff;
+}
+
+p.rules-Level1{
+
+border:solid 1px #fff;
+
+}
+
+p.rules-Level2{
+
+border:solid 1px #fff;
+margin-top:33px;
+
+}
+
+p.rules-Level3{
+
+border:solid 1px #fff;
+
+}
+
+@keyframes neon1 {
+  from {
+    text-shadow: 0 0 20px #fff, 0 0 30px #fff, 0 0 40px #fff, 0 0 40px #fff, 0 0 70px #, 0 0 80px #000, 0 0 100px #000, 0 0 150px #000;
+  }
+  to {
+    text-shadow: 0 0 20px #000, 0 0 25px #000, 0 0 30px #000, 0 0 40px #000, 0 0 45px #fff, 0 0 60px #fff, 0 0 70px #fff, 0 0 95px #fff;
+  }
+}
+
+select{
+
+ font-size:40px;
+ color:#800000;
+ animation: neon1 0.7s ease-in-out infinite alternate;
+ letter-spacing:11px;
+ border:solid 4px #fff;
+ box-shadow:inset 0 0 10px #000;
+ /*margin-top:130px;*/
+ margin-left:-700px;
+}
+
+@keyframes neon2 {
+  from {
+    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #fff, 0 0 30px #fff, 0 0 60px #, 0 0 70px #000, 0 0 90px #000, 0 0 140px #000;
+  }
+  to {
+    text-shadow: 0 0 5px #000, 0 0 10px #000, 0 0 15px #000, 0 0 25px #000, 0 0 40px #fff, 0 0 45px #fff, 0 0 55px #fff, 0 0 80px #fff;
+  }
+}
+
+.Timer{
+ color:#800000;
+ animation: neon2 0.7s ease-in-out infinite alternate;
+ margin-left:-700px;
+ /*margin-bottom:-550px;*/
+}
+
+h1#easyMode{
+
+  padding:10px;
+  margin-bottom:30px;
+  margin-top:58px;
+  font-size:35px;
+  animation: neon1 0.9s ease-in-out infinite alternate;
+  color:#800000;
+  letter-spacing: 5px;
+
+}
+
+
+h1#mediumMode{
+
+  padding:10px;
+  margin-bottom:30px;
+  margin-top:68px;
+  font-size:35px;
+  animation: neon2 0.9s ease-in-out infinite alternate;
+  color:#800000;
+  letter-spacing: 5px;
+
+}
+
+h1#hardMode{
+
+  padding:10px;
+  margin-bottom:30px;
+  margin-top:65px;
+  font-size:35px;
+  animation: neon3 0.9s ease-in-out infinite alternate;
+  color:#800000;
+  letter-spacing: 5px;
+
+}
+
+@keyframes neon3 {
+  from {
+    text-shadow: 0 0 10px #fff, 0 0 20px #fff, 0 0 30px #fff, 0 0 30px #fff, 0 0 60px #, 0 0 70px #000, 0 0 90px #000, 0 0 140px #000;
+  }
+  to {
+    text-shadow: 0 0 5px #000, 0 0 10px #000, 0 0 15px #000, 0 0 25px #000, 0 0 40px #fff, 0 0 45px #fff, 0 0 55px #fff, 0 0 80px #fff;
+  }
+}
+
+.hideBomb{
+
+background:#ddd;
+
+}
+
+div#instructions-1 p{
+
+ font-size:40px;
+ margin-left:50px;
+
+}
+
+span#startgame{
+
+ background-color:#000;
+ font-size:50px;
+ color:#800000;
+ animation: neon3 0.9s ease-in-out infinite alternate;
+ letter-spacing:12px;
+ cursor:pointer;
+}
+.randomclass{
+
+  background:red;
+}
+
+.gameOver{
+
+  background:red;
+}
+
+.path{
+
+  background:#A9A9A9;
+
+}
+
+.bomb {
+  background-color:#000080;
+  /*background:url("../images/bombs.png");
+  background-size:cover;*/
+
+}
+
+.click{
+
+background-color:'red';
+
+}
+
+button {
+  font-size:20px;
+  margin: 30px;
+}
